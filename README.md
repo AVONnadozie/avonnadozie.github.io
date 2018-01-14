@@ -1,4 +1,4 @@
-# Victor Anuebunwa Projects
+# Victor Anuebunwa's GitHub Projects
 
 ## About Me
 See my personal website - [victoranuebunwa.com](http://victoranuebunwa.com)
