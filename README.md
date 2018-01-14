@@ -1,8 +1,5 @@
 # Victor Anuebunwa's GitHub Projects
 
-## About Me
-See my personal website - [victoranuebunwa.com](http://victoranuebunwa.com)
-
 ## My Projects
 ### [AVONnadozie/LiteFrame](https://github.com/AVONnadozie/LiteFrame)
 A lightweight PHP framework built for small and medium scale applications.
@@ -19,3 +16,6 @@ A high level PHP wrapper over PopplerPhp for PDF content conversion and extracti
 
 ### [wesbos/burner-email-providers](https://github.com/wesbos/burner-email-providers)
 A list of temporary email providers
+
+## About Me
+See my personal website - [victoranuebunwa.com](http://victoranuebunwa.com)
