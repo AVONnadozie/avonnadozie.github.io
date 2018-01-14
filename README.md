@@ -7,6 +7,9 @@ See my personal website - [victoranuebunwa.com](http://victoranuebunwa.com)
 ### [AVONnadozie/LiteFrame](https://github.com/AVONnadozie/LiteFrame)
 A lightweight PHP framework built for small and medium scale applications.
 
+### [AVONnadozie/php-form-validation](https://github.com/AVONnadozie/php-form-validation)
+A PHP Form validation library.
+
 ## Some Projects I contribute to
 ### [ncjoes/poppler-php](https://github.com/ncjoes/poppler-php)
 Comprehensive PHP wrapper for Poppler-utils
